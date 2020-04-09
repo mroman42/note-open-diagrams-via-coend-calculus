@@ -1,0 +1,3 @@
+#+TITLE: Coend Calculus and Open Diagrams
+
+Morphisms in a monoidal category are usually interpreted as processes or black boxes that can be composed sequentially and in parallel. In practice, we are faced with the problem of interpreting what non-square boxes ought to represent and, more importantly, how should they be composed. Examples of this situation include lenses or learners. We propose a description of these non-square boxes, which we call open diagrams, in terms of coends and the monoidal bicategory of profunctors, with features of what could be considered a graphical coend calculus. This graphical calculus allows us to describe possible compositions of these open diagrams but also to reason about their concrete descriptions. This is work in progress.

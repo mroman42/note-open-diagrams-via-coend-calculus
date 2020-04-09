@@ -1,2 +1,0 @@
-# monoidal-shapes
-
